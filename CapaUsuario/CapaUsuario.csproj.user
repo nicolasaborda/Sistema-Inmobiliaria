@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AltaActividadDeportiva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AltaClase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AltaProfesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AltaSocio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GestionActividadDeportiva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GestionClase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GestionContable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GestionProfesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GestionSocio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InscribirSocio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModificarActivDepor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModificarClase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModificarProfesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModificarSocio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

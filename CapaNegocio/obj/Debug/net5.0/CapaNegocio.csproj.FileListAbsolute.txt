@@ -1,0 +1,58 @@
+C:\Users\ftopa\Desktop\TPCD\CapaNegocio\bin\Debug\net5.0\CapaNegocio.deps.json
+C:\Users\ftopa\Desktop\TPCD\CapaNegocio\bin\Debug\net5.0\CapaNegocio.dll
+C:\Users\ftopa\Desktop\TPCD\CapaNegocio\bin\Debug\net5.0\ref\CapaNegocio.dll
+C:\Users\ftopa\Desktop\TPCD\CapaNegocio\bin\Debug\net5.0\CapaNegocio.pdb
+C:\Users\ftopa\Desktop\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\ftopa\Desktop\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftopa\Desktop\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\ftopa\Desktop\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\ftopa\Desktop\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\ftopa\Desktop\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.csproj.CopyComplete
+C:\Users\ftopa\Desktop\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.dll
+C:\Users\ftopa\Desktop\TPCD\CapaNegocio\obj\Debug\net5.0\ref\CapaNegocio.dll
+C:\Users\ftopa\Desktop\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.pdb
+C:\Users\ftopa\Desktop\TPCD\CapaNegocio\bin\Debug\net5.0\Excepciones.dll
+C:\Users\ftopa\Desktop\TPCD\CapaNegocio\bin\Debug\net5.0\Excepciones.pdb
+C:\Users\ftopa\Desktop\TPCD\CapaNegocio\bin\Debug\net5.0\CapaDato.dll
+C:\Users\ftopa\Desktop\TPCD\CapaNegocio\bin\Debug\net5.0\CapaDato.pdb
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaNegocio\bin\Debug\net5.0\CapaNegocio.deps.json
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaNegocio\bin\Debug\net5.0\CapaNegocio.dll
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaNegocio\bin\Debug\net5.0\ref\CapaNegocio.dll
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaNegocio\bin\Debug\net5.0\CapaNegocio.pdb
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaNegocio\bin\Debug\net5.0\CapaDato.dll
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaNegocio\bin\Debug\net5.0\Excepciones.dll
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaNegocio\bin\Debug\net5.0\CapaDato.pdb
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaNegocio\bin\Debug\net5.0\Excepciones.pdb
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.csproj.AssemblyReference.cache
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.AssemblyInfoInputs.cache
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.AssemblyInfo.cs
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.csproj.CopyComplete
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.dll
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaNegocio\obj\Debug\net5.0\ref\CapaNegocio.dll
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.pdb
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaNegocio\bin\Debug\net5.0\CapaNegocio.deps.json
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaNegocio\bin\Debug\net5.0\CapaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaNegocio\bin\Debug\net5.0\ref\CapaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaNegocio\bin\Debug\net5.0\CapaNegocio.pdb
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaNegocio\bin\Debug\net5.0\CapaDato.dll
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaNegocio\bin\Debug\net5.0\Excepciones.dll
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaNegocio\bin\Debug\net5.0\CapaDato.pdb
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaNegocio\bin\Debug\net5.0\Excepciones.pdb
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.csproj.CopyComplete
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaNegocio\obj\Debug\net5.0\ref\CapaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.pdb
+C:\Users\nb250354\Downloads\TPCD avance\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\nb250354\Downloads\TPCD avance\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nb250354\Downloads\TPCD avance\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\nb250354\Downloads\TPCD avance\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\nb250354\Downloads\TPCD avance\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\nb250354\Downloads\TPCD avance\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.dll
+C:\Users\nb250354\Downloads\TPCD avance\TPCD\CapaNegocio\obj\Debug\net5.0\CapaNegocio.pdb

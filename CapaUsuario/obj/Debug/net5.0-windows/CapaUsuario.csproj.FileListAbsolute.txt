@@ -1,0 +1,168 @@
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaUsuario.exe
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaUsuario.deps.json
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaUsuario.runtimeconfig.json
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaUsuario.runtimeconfig.dev.json
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaUsuario.dll
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\ref\CapaUsuario.dll
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaUsuario.pdb
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaNegocio.dll
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaNegocio.pdb
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.csprojAssemblyReference.cache
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.csproj.GenerateResource.cache
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.AssemblyInfoInputs.cache
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.AssemblyInfo.cs
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.csproj.CoreCompileInputs.cache
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.csproj.CopyComplete
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.dll
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\ref\CapaUsuario.dll
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.pdb
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.genruntimeconfig.cache
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.AltaActividadDeportiva.resources
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.AltaClase.resources
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.AltaProfesor.resources
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.AltaSocio.resources
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.GestionActividadDeportiva.resources
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.GestionClase.resources
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.GestionContable.resources
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.GestionProfesor.resources
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.GestionSocio.resources
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.InscribirSocio.resources
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.ModificarActivDepor.resources
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.ModificarClase.resources
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.ModificarProfesor.resources
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.ModificarSocio.resources
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.Principal.resources
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.Properties.Resources.resources
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\Excepciones.dll
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\Excepciones.pdb
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaDato.dll
+C:\Users\ftopa\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaDato.pdb
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaUsuario.exe
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaUsuario.deps.json
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaUsuario.runtimeconfig.json
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaUsuario.runtimeconfig.dev.json
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaUsuario.dll
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\bin\Debug\net5.0-windows\ref\CapaUsuario.dll
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaUsuario.pdb
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaDato.dll
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaNegocio.dll
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\bin\Debug\net5.0-windows\Excepciones.dll
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaNegocio.pdb
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaDato.pdb
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\bin\Debug\net5.0-windows\Excepciones.pdb
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.csproj.AssemblyReference.cache
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.AltaActividadDeportiva.resources
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.AltaClase.resources
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.AltaProfesor.resources
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.AltaSocio.resources
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.GestionActividadDeportiva.resources
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.GestionClase.resources
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.GestionContable.resources
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.GestionProfesor.resources
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.GestionSocio.resources
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.InscribirSocio.resources
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.ModificarActivDepor.resources
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.ModificarClase.resources
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.ModificarProfesor.resources
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.ModificarSocio.resources
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.Principal.resources
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.Properties.Resources.resources
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.csproj.GenerateResource.cache
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.GeneratedMSBuildEditorConfig.editorconfig
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.AssemblyInfoInputs.cache
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.AssemblyInfo.cs
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.csproj.CoreCompileInputs.cache
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.csproj.CopyComplete
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.dll
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\ref\CapaUsuario.dll
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.pdb
+D:\prog_avanzada\TPCD-20220525T235126Z-001\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.genruntimeconfig.cache
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaUsuario.exe
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaUsuario.deps.json
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaUsuario.runtimeconfig.json
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaUsuario.runtimeconfig.dev.json
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaUsuario.dll
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\bin\Debug\net5.0-windows\ref\CapaUsuario.dll
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaUsuario.pdb
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaDato.dll
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaNegocio.dll
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\bin\Debug\net5.0-windows\Excepciones.dll
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaNegocio.pdb
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaDato.pdb
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\bin\Debug\net5.0-windows\Excepciones.pdb
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.csproj.AssemblyReference.cache
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.AltaActividadDeportiva.resources
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.AltaClase.resources
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.AltaProfesor.resources
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.AltaSocio.resources
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.GestionActividadDeportiva.resources
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.GestionClase.resources
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.GestionContable.resources
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.GestionProfesor.resources
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.GestionSocio.resources
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.InscribirSocio.resources
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.ModificarActivDepor.resources
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.ModificarClase.resources
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.ModificarProfesor.resources
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.ModificarSocio.resources
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.Principal.resources
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.Properties.Resources.resources
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.csproj.GenerateResource.cache
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.GeneratedMSBuildEditorConfig.editorconfig
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.AssemblyInfoInputs.cache
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.AssemblyInfo.cs
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.csproj.CoreCompileInputs.cache
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.csproj.CopyComplete
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.dll
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\ref\CapaUsuario.dll
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.pdb
+D:\MORON_TOTAL\4_AÑO\PROGRAMACIÓN AVANZADA I__3370\TP\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaUsuario.exe
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaUsuario.deps.json
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaUsuario.runtimeconfig.json
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaUsuario.runtimeconfig.dev.json
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaUsuario.dll
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\ref\CapaUsuario.dll
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaUsuario.pdb
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaDato.dll
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\Excepciones.dll
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaNegocio.pdb
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\CapaDato.pdb
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\bin\Debug\net5.0-windows\Excepciones.pdb
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.AltaActividadDeportiva.resources
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.AltaClase.resources
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.AltaProfesor.resources
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.AltaSocio.resources
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.GestionActividadDeportiva.resources
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.GestionClase.resources
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.GestionContable.resources
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.GestionProfesor.resources
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.GestionSocio.resources
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.InscribirSocio.resources
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.ModificarActivDepor.resources
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.ModificarClase.resources
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.ModificarProfesor.resources
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.ModificarSocio.resources
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.Principal.resources
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.Properties.Resources.resources
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.csproj.GenerateResource.cache
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.csproj.CopyComplete
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.dll
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\ref\CapaUsuario.dll
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.pdb
+C:\Users\maria\OneDrive\Desktop\TPCD\CapaUsuario\obj\Debug\net5.0-windows\CapaUsuario.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "I+6ZzJY9lGFyc7/AtdcPbe59Lx2X6XX/LRggKYUngAAYPN97pXD2WC9CtQeVBrFQ8/ZmLpGQ+LKomhHibeDZsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nb250354\\Downloads\\TPCD avance\\TPCD\\CapaNegocio\\CapaNegocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nb250354\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\nb250354\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\nb250354\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "cvvIOIdTcaExVSb2gFWH4Ye/7WDAlfXNuTzs/tKkUw6GSwaFf9FPcytS8/nMk5VkOkY5O0/GxUMuWqzdYD35Ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nb250354\\Downloads\\TPCD avance\\TPCD\\CapaUsuario\\CapaUsuario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nb250354\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\nb250354\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\nb250354\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\nb250354\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+    "C:\\Users\\nb250354\\.nuget\\packages\\system.data.oledb\\5.0.0\\system.data.oledb.5.0.0.nupkg.sha512",
+    "C:\\Users\\nb250354\\.nuget\\packages\\system.diagnostics.performancecounter\\5.0.0\\system.diagnostics.performancecounter.5.0.0.nupkg.sha512",
+    "C:\\Users\\nb250354\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\nb250354\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\nb250354\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
+    "C:\\Users\\nb250354\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "C:\\Users\\nb250354\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\nb250354\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\nb250354\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\nb250354\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\nb250354\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\nb250354\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
